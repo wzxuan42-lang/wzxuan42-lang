@@ -28,7 +28,7 @@ Data Science Master's student | Sci-fi writer | AI × Publishing workflows
 
 ## Contact | 联系
 
-📧 wzxuan42@gmail.com · 📍 Australia
+📧 wzxuan42@gmail.com · Australia
 ```
 
 ---
