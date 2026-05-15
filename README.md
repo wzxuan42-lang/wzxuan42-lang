@@ -1,8 +1,8 @@
-# Hi, I'm WangYue | 你好，我是王悦
+# Hi, I'm WangYue | 你好，我是王越
 
 > "The universe is vast, but life is vaster."
 > 
-> "宇宙浩瀚，但生命更广阔。"
+> "宇宙很大，生活更大。"
 
 Data Science Master's student | Sci-fi writer | AI × Publishing workflows
 
