@@ -9,7 +9,7 @@ Data Science Master's student | Sci-fi writer | AI × Publishing workflows
 
 ---
 
-## 🛠️ Tech Stack | 技术栈
+## Tech Stack | 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-AI%20Agent-blueviolet?style=flat)
@@ -17,16 +17,16 @@ Data Science Master's student | Sci-fi writer | AI × Publishing workflows
 
 ---
 
-## 📌 Projects | 项目
+## Projects | 项目
 
 | Project | Description |
 |--------|-------------|
-| [RAG-Support-Publishing-Website-Agent](https://github.com/wzxuan42-lang/RAG-Support-Publishing-Website-Agent) | RAG-powered publishing support agent / 基于 RAG 的出版支持 Agent |
+| [RAG-Support-Publishing-Website-Agent](https://github.com/wzxuan42-lang/RAG-Support-Publishing-Website-Agent) | RAG-powered publishing support agent / 基于 RAG 的出版社网页支持 Agent |
 | [Editorial-Mail-Workflow-Agent](https://github.com/wzxuan42-lang/Editorial-Mail-Workflow-Agent) | Automated editorial email workflow / 自动化编辑邮件工作流 |
 
 ---
 
-## 📫 Contact | 联系
+## Contact | 联系
 
 📧 wzxuan42@gmail.com · 📍 Australia
 ```
