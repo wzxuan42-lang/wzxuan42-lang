@@ -6,7 +6,7 @@
 
 Data Science Master's student | Sci-fi writer | AI × Publishing workflows
 
-数据科学硕士生 | 科幻作家 | AI × 出版工作流探索者
+数据科学硕士生 | 科幻作者 | AI × 出版工作流探索者
 
 ---
 
